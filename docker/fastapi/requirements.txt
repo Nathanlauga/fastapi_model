@@ -2,5 +2,5 @@ sklearn
 numpy==1.18.2
 pandas==1.0.3
 fastapi==0.53.2
-uvicorn==0.11.3
+uvicorn==0.11.7
 loguru==0.4.1
